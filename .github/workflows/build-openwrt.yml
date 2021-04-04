@@ -16,7 +16,7 @@ on:
     branches:
       - master
     paths:
-      - 'x86.config'
+      - 'x86-2.config'
 #  schedule:
 #    - cron: 0 8 * * 5
   watch:
